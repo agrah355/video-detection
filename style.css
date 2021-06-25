@@ -1,0 +1,19 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_object
+{
+font-size: 22px;
+}
+canvas{
+    animation: example;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    
+    margin-top: 50px;
+}
